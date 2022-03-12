@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+# WilliamAnimate, your terrible programmer that takes 5 hours just to finish one line of code
 <!--
 **WilliamAnimate/WilliamAnimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
