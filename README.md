@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-# WilliamAnimate, your terrible programmer that takes 5 hours just to finish one line of code
+## WilliamAnimate, your terrible programmer that takes 5 hours just to finish one line of code
+
+### WAIT!, i seen you in the block website where you put blocks to do coding
+that website "blocked" my account for no reason so we are here now aeae
+
+anywaywww
+
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com) is all i do
 
 Just because im on github, its 
