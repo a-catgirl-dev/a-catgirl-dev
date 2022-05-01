@@ -1,9 +1,9 @@
 # Hi there 👋
 WilliamAnimate, your terrible programmer that takes 5 hours just to finish one line of code
 
-### WAIT!, i seen you in the block website where you put blocks to do coding
-that website "blocked" my account for the dumb reason of "Due to your agreement with the appeals desk you would use CreatorWilliam Only"
-# FIRST OF ALL, WHAT AGREEMENT
+### [WAIT!, i seen you in the block website where you put blocks to do coding](https://scratch.mit.edu)
+[that website "blocked" my account for the dumb reason of "Due to your agreement with the appeals desk you would use CreatorWilliam Only"](https://youtu.be/xUDMkfaCjNg)
+# FIRST OF ALL, WHAT AGREEMENT???!!!
 ![Its as if they have some sort of quota of "blocking" they need to reach every month or they'll get fired.. (go to comments if you click on me)](https://www.youtube.com/watch?v=xUDMkfaCjNg&lc=Ugw9MuwJxiwEX2BQLiZ4AaABAg.9_N-OHRLWFc9aJeF3cQ_0K)
 
 ### my stats
@@ -12,9 +12,12 @@ that website "blocked" my account for the dumb reason of "Due to your agreement 
 
 # QNA
 ## Is your name actually William?
-I got this name when i came to Canada a while back.
-## Did you actually make LTS?
+I got this name when i came to Canada a (long) while back.
+## Did you actually make [LTS.exe?](https://youtu.be/Ha-0MIpaieo)
 No. i only gave [Fikinoob (click here)](https://github.com/fikinoob) the tools to do so
+## GIVE ME [LTS.exe](https://youtu.be/Ha-0MIpaieo)
+## BATCH SUCKS [Click](https://youtu.be/Ha-0MIpaieo)
+no it doesn't. programming language is programming language
 ## William your profile picture has some holes in it (note: to notice, look closely to my pfp)
 I'm aware. might fix later
 oh yeah, the person who made by pfp is [Here (R.I.P)](https://scratch.mit.edu/alpha_coder)
