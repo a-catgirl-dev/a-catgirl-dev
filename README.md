@@ -26,13 +26,13 @@ No. i only gave [Fikinoob (click here)](https://github.com/fikinoob) the tools t
 no.. not yet
 also programming language is programming language, 
 ## Who made your PFP or did you make it by yourself
-the person who made by pfp is [Here (R.I.P)](https://scratch.mit.edu/alpha_coder) and specified person's API [Here (RIP v2)](https://api.scratch.mit.edu/aIpha_coder)
+the person who made by pfp is [Here (R.I.P)](https://scratch.mit.edu/alpha_coder) and specified person's API [Here (RIP v2)](https://api.scratch.mit.edu/users/aIpha_coder)
 ## Where do i ask questions
 william.animate.other@outlook.com or [William_animate#7884 (click)](https://discord.com/users/720264552285208666)
 
 # DISCLAIMER BEFORE USING MY CODE
 Feel free to use my code! just make sure to give credit. (you may use it in a private environment, its not like anyone will stop you if you use a code for **your computer only** *(some licenses don't like that, but i like it simple!)*
-*v1.4, never thought i would ever be fixing bugs in markdown.. ig that shows me how bad im at simple "programming" [is markdown a programming lang](https://duckduckgo.com/?q=is+markdown+a+programming+language&t=opera&ia=web)
+*v1.4.2, never thought i would ever be fixing bugs in markdown.. ig that shows me how bad im at simple "programming" [is markdown a programming lang](https://duckduckgo.com/?q=is+markdown+a+programming+language&t=opera&ia=web)
 <!--
 **WilliamAnimate/WilliamAnimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
