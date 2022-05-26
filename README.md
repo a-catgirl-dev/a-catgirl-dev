@@ -1,14 +1,20 @@
 # Hi there 👋
-WilliamAnimate, your terrible programmer that takes 5 hours just to finish one line of code
+I'm WilliamAnimate, your terrible programmer that takes 5 hours just to finish one line of code (working to make this shorter, i'm sorry
 
-### WAIT!, i seen you in the [block website](https://scratch.mit.edu) where you put [blocks to do coding](https://scratch.mit.edu)
-[that website "blocked" my account for the dumb reason of "Due to your agreement with the appeals desk you would use CreatorWilliam Only"](https://youtu.be/xUDMkfaCjNg)
-***FIRST OF ALL, WHAT AGREEMENT???!!!***
+### WAIT!, i seen you in [a **block** website](https://scratch.mit.edu)
+[that website **"blocked"** my account for the dumb reason of "Due to your agreement with the appeals desk you would use CreatorWilliam Only" (i never agreed to anything..)](https://youtu.be/xUDMkfaCjNg)
 
-[Its as if they have some sort of quota of "blocking" they need to reach every month or they'll get fired.. (https://www.youtube.com/watch?v=xUDMkfaCjNg&lc=Ugw9MuwJxiwEX2BQLiZ4AaABAg.9_N-OHRLWFc9aJeF3cQ_0K)
+**(it uses blocks because it** ***blocks*** **you from the website for NO REASON)**
 
-# my stats
-![My Github Langs I (Didn't Use) Most Thingy 35 tm r c a idk?????](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAnimate&show_icons=true&theme=dark&layout=compact&custom_title=Languages%20I%20Use%20Here%20Most)]
+*destruction*
+![d](https://github.com/WilliamAnimate/WilliamAnimate/blob/main/infinity.png)
+
+"and then scratch has a ban quota they need to reach every month or lose job", as suggested by *"Noob Man"*
+![b](https://github.com/WilliamAnimate/WilliamAnimate/blob/main/banquota.png)
+
+<!-- # my stats -->
+# A stat
+<!-- ![My Github Langs I (Didn't Use) Most Thingy 35 tm r c a idk?????](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAnimate&show_icons=true&theme=dark&layout=compact&custom_title=Languages%20I%20Use%20Here%20Most)] -->
 ![Status Things Or Something I Dont Know](https://github-readme-stats.vercel.app/api?username=WilliamAnimate&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats)]
 
 # QNA
