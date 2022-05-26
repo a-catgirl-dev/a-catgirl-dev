@@ -15,7 +15,7 @@ I'm WilliamAnimate, your terrible programmer that takes 5 hours just to finish o
 <!-- # my stats -->
 # A stat
 <!-- ![My Github Langs I (Didn't Use) Most Thingy 35 tm r c a idk?????](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAnimate&show_icons=true&theme=dark&layout=compact&custom_title=Languages%20I%20Use%20Here%20Most)] -->
-![Status Things Or Something I Dont Know](https://github-readme-stats.vercel.app/api?username=WilliamAnimate&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats)]
+![Status Things Or Something I Dont Know](https://github-readme-stats.vercel.app/api?username=WilliamAnimate&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats)
 
 # QNA
 ## Is your name actually William?
