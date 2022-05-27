@@ -22,7 +22,7 @@ reilc for people digging in the code. its too long -->
 # How do i reach you?
 [william.animate.other@outlook.com (Not perferred but i do check it. use for rather-low priority) (click.. if mailto:// works)](mailto://william.animate.other@outlook.com) or [William_animate#7884 (Perferred option. but i recommend you do this if you need to reach me quick. (click)](https://discord.com/users/720264552285208666)
 
-# **Other QNA goes [Here (not programmed yet lol there is nothing you can do to stop me from being lazy) (also a placeholder that takes you here)](https://github.com/williamanimate/williamanimate/readme.md#QNA)
+# **Other QNA goes [Here (not programmed yet lol there is nothing you can do to stop me from being lazy) (also a placeholder that takes you here)]**(https://github.com/williamanimate/williamanimate/readme.md#QNA)
 
 **while you wait, this will stay here until i program it.**
 
@@ -43,7 +43,7 @@ Feel free to use my code! just make sure to give credit. (you may use it in a pr
 
 *v1.4.2, never thought i would ever be fixing bugs in markdown.. ig that shows me how bad im at simple "programming" [is markdown a programming lang](https://duckduckgo.com/?q=is+markdown+a+programming+language)
 
-**[duckduckgo is no longer as good now. ](https://www.techradar.com/news/duckduckgo-in-hot-water-over-hidden-tracking-agreement-with-microsoft)
+**[duckduckgo is no longer as good now. they broke the promise of "we will never track you. ever" (click to see article)]**(https://www.techradar.com/news/duckduckgo-in-hot-water-over-hidden-tracking-agreement-with-microsoft)
 <!--
 **WilliamAnimate/WilliamAnimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
