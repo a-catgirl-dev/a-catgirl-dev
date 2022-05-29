@@ -34,10 +34,8 @@ i guess i know why making it consistant is difficult
 but microsoft, you can do this better than me
 -->
 ## News
-<!--
 **none :trollface:**
--->
-***[😠duckduckgo is no longer as good now. they broke the promise of "we will never track you. ever" (click to see article)](https://www.techradar.com/news/duckduckgo-in-hot-water-over-hidden-tracking-agreement-with-microsoft)***
+
 <!--
 *v1.4.5
 **WilliamAnimate/WilliamAnimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
