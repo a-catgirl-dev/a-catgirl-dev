@@ -1,6 +1,10 @@
 # Hey there, traveller! 👋
 I'm WilliamAnimate, a *okay* but still learning dev.
 
+**What you can help me on: the ways of making a proper pull request**
+
+PLEASEDOPLEASEDOPLEASEDO
+
 **Before you ask, Yes, im the [person from scratch.](https://scratch.mit.edu/users/william_animate)
 [Where were i? this youtube video should explain it](https://youtu.be/xUDMkfaCjNg)**
 <!-- 
