@@ -1,8 +1,10 @@
 # Hey there, traveller! 👋
 I'm WilliamAnimate, a *okay* but still learning dev.
-
-**Before you ask, Yes, im that [dude from scratch.](https://scratch.mit.edu/users/william_animate)**
-my acc got ban and stuf.
+## projects
+[itch.io](https://williamanimate.itch.io)
+[flying spirit game](https://williamanimate.itch.io/flying-spirit)
+[circles](https://williamanimate.itch.io/circles)
+<!-- [something else](williamanimate.itch.io/eco-heroes) -->
 <!-- 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAnimate&show_icons=true&theme=dark&layout=compact&custom_title=Languages%20I%20Use%20Here%20Most)] 
 ok, you may be asking, WILLIAM, WHY IS THIS NOT SHOWN??
