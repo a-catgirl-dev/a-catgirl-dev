@@ -2,7 +2,9 @@
 I'm WilliamAnimate, a *okay* but still learning dev.
 ## projects
 [itch.io](https://williamanimate.itch.io)
+
 [flying spirit game](https://williamanimate.itch.io/flying-spirit)
+
 [circles](https://williamanimate.itch.io/circles)
 <!-- [something else](williamanimate.itch.io/eco-heroes) -->
 <!-- 
