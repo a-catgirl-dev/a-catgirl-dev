@@ -13,7 +13,7 @@ ok, you may be asking, WILLIAM, WHY IS THIS NOT SHOWN??
 it only says HTML and CSS but i didnt do them 
 even if i removed HTML and CSS it will say nothing :trol:
 -->
-<![Status Things Or Something I Dont Know](https://github-readme-stats.vercel.app/api?username=WilliamAnimate&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats&layout=compact)
+![Status Things Or Something I Dont Know](https://github-readme-stats.vercel.app/api?username=WilliamAnimate&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats&layout=compact)
 <!-- 
 lmao i dont know if &layout=compact for the one above me even works 
 -->
