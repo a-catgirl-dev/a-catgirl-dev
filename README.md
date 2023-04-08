@@ -1,5 +1,5 @@
 # Hey there, traveller! 👋
-I'm WilliamAnimate, a *okay* but still learning dev.
+I'm WilliamAnimate, an *okay* but still learning dev.
 ## projects
 [itch.io](https://williamanimate.itch.io)
 
