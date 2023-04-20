@@ -4,8 +4,6 @@ I'm WilliamAnimate, an *okay* but still learning dev.
 [itch.io](https://williamanimate.itch.io)
 
 [flying spirit game](https://williamanimate.itch.io/flying-spirit)
-
-[circles](https://williamanimate.itch.io/circles)
 <!-- [something else](williamanimate.itch.io/eco-heroes) -->
 <!-- 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAnimate&show_icons=true&theme=dark&layout=compact&custom_title=Languages%20I%20Use%20Here%20Most)] 
@@ -18,10 +16,9 @@ even if i removed HTML and CSS it will say nothing :trol:
 lmao i dont know if &layout=compact for the one above me even works 
 -->
 
-## Basic Info
 ### how to spam me:
 [william.animate.other@outlook.com (perferred spamming choice) (micro disabled my acc and im too lazy to fix fr](mailto://william.animate.other@outlook.com) or [William_animate#7884 (Perferred human talk option) click to access](https://discord.com/users/720264552285208666)
-[Full QNA (click here ig)](https://github.com/WilliamAnimate/WilliamAnimate/blob/main/QNA.md)
+
 
 <!--
 **WilliamAnimate/WilliamAnimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +33,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- What
 -->
