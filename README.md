@@ -1,5 +1,5 @@
 # Hey there, traveller! 👋
-I'm WilliamAnimate, an *okay* but still learning dev.
+I'm WilliamAnimate, your local frontend designer
 ## projects
 [itch.io](https://williamanimate.itch.io)
 
