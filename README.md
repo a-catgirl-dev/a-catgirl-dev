@@ -12,7 +12,7 @@ I'm WilliamAnimate, your local frontend designer
 ### I'm currently working on
 - Learning unity with 0 c# experience *other than the fact that java (i have little experience) is similar to c#*
 - css & html
-- etc
+- rust with no experience, i can probably create rust code that crashes
 
 
 <!--
