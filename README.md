@@ -1,5 +1,5 @@
 # Hey there, traveller! 👋
-I'm WilliamAnimate, your local frontend designer
+I'm WilliamAnimate, your local frontend web designer
 
 <!-- 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAnimate&show_icons=true&theme=dark&layout=compact&custom_title=Languages%20I%20Use%20Here%20Most)] 
