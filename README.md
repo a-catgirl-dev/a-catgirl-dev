@@ -1,6 +1,8 @@
 # Hey there, traveller! 👋
 I'm WilliamAnimate, your local frontend web designer
 
+**Dispite the 'popular' controversy of the presentation I made, no, I don't use twitter lol**
+
 <!-- 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAnimate&show_icons=true&theme=dark&layout=compact&custom_title=Languages%20I%20Use%20Here%20Most)] 
 -->
@@ -28,5 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- What
+- Something else
 -->
