@@ -1,21 +1,28 @@
 # Hey there, traveller! 👋
 I'm WilliamAnimate, your local frontend web designer
 
-**Despite the 'popular' controversy of the presentation I made, no, I don't use twitter lol**
-
 <!-- 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAnimate&show_icons=true&theme=dark&layout=compact&custom_title=Languages%20I%20Use%20Here%20Most)] 
 -->
-![Status Things Or Something I Dont Know](https://github-readme-stats.vercel.app/api?username=WilliamAnimate&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats&layout=compact)
+![status](https://github-readme-stats.vercel.app/api?username=WilliamAnimate&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats&layout=compact)
 
 ### Contact
-[william.animate.other@outlook.com (perferred)](mailto://william.animate.other@outlook.com). shrimple as that
 
-### I'm currently working on
-- Learning unity with 0 c# experience *other than the fact that java (i have little experience) is similar to c#*
+[william.animate.other@outlook.com](mailto://william.animate.other@outlook.com). shrimple as that.
+
+### What I know
+
 - css & html
-- rust with no experience, i can probably create rust code that crashes
+- batch & powershell
+- Java and JavaScript
+- ~~Scratch~~
+- -1 c#
+- Markdown
 
+### I'm currently learning
+
+- 🦀 Rust
+- - Learning unity with 0 c# experience *other than the fact that java (i have little experience) is similar to c#*
 
 <!--
 **WilliamAnimate/WilliamAnimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
