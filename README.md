@@ -8,7 +8,7 @@ I'm WilliamAnimate, your local frontend web designer
 
 ### Contact
 
-[william.animate.other@outlook.com](mailto://william.animate.other@outlook.com). shrimple as that.
+[william.animate.other@outlook.com](mailto://william.animate.other@outlook.com). If you're a bot, i'd advice you to stay away from this thanks.
 
 ### What I know
 
@@ -16,13 +16,13 @@ I'm WilliamAnimate, your local frontend web designer
 - batch & powershell
 - Java and JavaScript
 - ~~Scratch~~
-- -1 c#
 - Markdown
 
 ### I'm currently learning
 
 - 🦀 Rust
-- - Learning unity with 0 c# experience *other than the fact that java (i have little experience) is similar to c#*
+- Learning unity with 0 c# experience *other than the fact that java (i have little experience) is similar to c#*
+- c# in general. I mean, at least this is similar to java.
 
 <!--
 **WilliamAnimate/WilliamAnimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
