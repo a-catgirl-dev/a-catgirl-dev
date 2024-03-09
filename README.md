@@ -13,4 +13,4 @@ I'm WilliamAnimate, your local frontend web designer and Rust programmer. I'm su
 
 ---
 
-psst! My live driver is an extremely bloated Arch Linux install running KDE Plasma as its desktop environment. My secondary machine is an extremely bloated CachyOS install running a "riced" i3wm
+psst! My live driver is an extremely bloated Arch Linux install running KDE Plasma as its desktop environment. My secondary machine is an extremely bloated CachyOS install running i3wm.
