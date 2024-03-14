@@ -13,4 +13,4 @@ I'm WilliamAnimate, your local frontend web designer and Rust programmer. I'm su
 
 ---
 
-psst! My main (not anymore) driver is a broken arch linux install (:kekw:). My secondary machine (main) is an extremely bloated CachyOS install running i3wm.
+psst! My daily driver is an Arch Linux install (i use arch btw). My secondary machine (main) is an extremely bloated CachyOS install running i3wm.
