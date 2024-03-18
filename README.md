@@ -9,7 +9,7 @@ I'm WilliamAnimate, your local frontend web designer and Rust programmer. I'm su
 ### I'm currently learning
 
 - 🦀 Rust
-- C++ and C
+- C
 
 ---
 
