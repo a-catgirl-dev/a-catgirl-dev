@@ -13,4 +13,4 @@ I'm WilliamAnimate, your local frontend web designer and Rust programmer. I'm su
 
 ---
 
-psst! My daily driver is an Arch Linux install (i use arch btw) running KDE Plasma. My secondary machine (main) is an extremely bloated CachyOS install running i3wm.
+psst! My daily driver is an Arch Linux install (i use arch btw) running KDE Plasma. My secondary machine is an extremely bloated CachyOS install running i3wm.
