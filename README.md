@@ -8,6 +8,7 @@ I'm WilliamAnimate, your local frontend web designer and Rust programmer. I'm su
 
 - 🦀 Rust
 - C
+- Go (for educational, very legit purposes 🔥 🗣️ 🗣️ :fire:)
 
 ---
 
