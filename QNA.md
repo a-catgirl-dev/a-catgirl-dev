@@ -1,24 +1,15 @@
 # <u>Q</u>uestion <u>N</u>' <u>A</u>nswer
 
-## Is your name actually William?
+## What are your pronouns?
 
-yes lol
+any~~, but because i like chaos, None.~~
 
-## Did you actually make [LTS.exe](https://youtu.be/Ha-0MIpaieo)?
+## Contact
 
-No. i only gave [Fikinoob (click here)](https://github.com/fikinoob) the tools to do so
-And before you ask, no, you may not get [LTS](https://youtu.be/Ha-0MIpaieo) until [fikinoob](https://github.com/fikinoob) releases it (if i have permission, i may also release the binary along with it and probably the source or something)
+[nyameowmeow@duck.com](mailto://nyameowmeow@duck.com). except everything is forwarded to /dev/null aka i don't read it. contact me via discord @ [wiamill](https://discord.com/users/1103849536079806545) or [telegram](https://t.me/nyaameowmeow) or ~~signal~~
 
-## Who made your PFP or did you make it by yourself?
-the person who made by pfp is [Here (RIP)](https://scratch.mit.edu/users/aipha_coder) and their person's API (for proof of existance) [Here (RIP)](https://api.scratch.mit.edu/users/aipha_coder)
+or be a real human and make a github issue.
 
-And the project where it first appeared [Here](https://scratch.mit.edu/projects/429872093/)
+## What languages
 
-# What are your pronouns?
-
-any
-
-# Contact
-
-[william.animate.other@outlook.com](mailto://william.animate.other@outlook.com). spam if you want, i never read it... unless...
-
+C, ~~C++~~, Rust, English, Java, JavaScript, ~~HTML, CSS~~, Go, French 🥖🥖🥖, Markdown, Git, help, me, from, my, crippling, terminal, addiction, shell, fish
