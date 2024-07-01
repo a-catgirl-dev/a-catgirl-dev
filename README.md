@@ -7,7 +7,7 @@ I'm WilliamAnimate, your local frontend web designer and Rust programmer. I'm su
 ### I'm currently learning
 
 - 🦀 Rust
-- C
+- C (to build the backend infrastructure for an untitled banking app)
 - Go (for educational, very legit purposes 🔥 🗣️ 🗣️ :fire:)
 
 ---
