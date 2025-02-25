@@ -10,4 +10,4 @@
 - C
 - Go (for educational, very legit purposes 🔥 🗣️ 🗣️ :fire:‼️‼️⁉️)
 
-oh and i use arch btw
+oh and i use artix btw
